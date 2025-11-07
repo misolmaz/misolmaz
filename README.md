@@ -44,5 +44,6 @@ My focus is on building **scalable, intelligent, and hardware-aware applications
 
 🔗 Open to **remote freelance collaborations** in automation, IoT, and applied AI projects.
 
-[My LinkedIn Profile](https://www.linkedin.com/in/misolmaz/) 
+📎 Also on [LinkedIn](https://linkedin.com/in/misolmaz) — open for collaboration and knowledge sharing.
+
 
